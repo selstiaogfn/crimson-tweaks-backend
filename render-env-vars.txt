@@ -1,0 +1,15 @@
+Copy these environment variables to Render Dashboard:
+
+NODE_ENV=production
+JWT_SECRET=crimson-jwt-secret-2024-secure-key-change-me
+SESSION_SECRET=crimson-session-secret-2024-secure-key-change-me
+BOT_REGISTER_SECRET=crimson-register-secret-2024
+BOT_ADMIN_SECRET=crimson-admin-secret-2024
+DISCORD_BOT_TOKEN=MTQ4Njg3MjYyMjI5MjUzMzI3OA.GPp-lL.ZulZWwg-ZOeU-ByprX1Fdj6SfnVcrIT4mjW0z4
+DISCORD_CLIENT_ID=1486872622292533278
+DISCORD_CLIENT_SECRET=iabLu-afzNTiIEgtiTsuCHtYjTE_JG0e
+DISCORD_GUILD_ID=1446913191534923808
+ADMIN_ROLE_ID=1486601144401658032
+
+# DISCORD_REDIRECT_URI will be set after deployment
+# DATABASE_URL will be set after adding PostgreSQL database
